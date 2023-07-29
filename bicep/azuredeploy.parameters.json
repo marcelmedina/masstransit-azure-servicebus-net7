@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "serviceBusNamespaceName": {
-      "value": "masstransit-az-demo"
+      "value": "any-name-you-wish"
     },
     "serviceBusTopicName1": {
       "value": "product-created"
