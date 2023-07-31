@@ -1,0 +1,7 @@
+﻿PUT http://localhost:7276/api/ProductUpdated
+
+{
+    "id": 1,
+    "name": "Milk",
+    "sku": "MILK001"
+}

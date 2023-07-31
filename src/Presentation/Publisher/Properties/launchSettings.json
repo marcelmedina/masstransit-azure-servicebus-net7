@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Publisher": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7276",
+      "launchBrowser": false
+    }
+  }
+}

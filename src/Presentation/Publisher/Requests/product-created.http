@@ -1,0 +1,7 @@
+﻿POST http://localhost:7276/api/ProductCreated
+
+{
+    "id": 1,
+    "name": "Milk",
+    "sku": "MILK01"
+}

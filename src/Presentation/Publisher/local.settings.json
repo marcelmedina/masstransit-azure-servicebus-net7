@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "AzServiceBus": "Endpoint=sb://yourinstance.servicebus.windows.net/;SharedAccessKeyName=TheNameOfYourKey;SharedAccessKey=TheKeyItself"
+  }
+}
